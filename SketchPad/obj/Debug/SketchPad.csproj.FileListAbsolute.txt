@@ -1,0 +1,10 @@
+D:\Coding_lessons\C#\SketchPad\bin\Debug\SketchPad.exe.config
+D:\Coding_lessons\C#\SketchPad\bin\Debug\SketchPad.exe
+D:\Coding_lessons\C#\SketchPad\bin\Debug\SketchPad.pdb
+D:\Coding_lessons\C#\SketchPad\obj\Debug\SketchPad.csproj.AssemblyReference.cache
+D:\Coding_lessons\C#\SketchPad\obj\Debug\SketchPad.Form1.resources
+D:\Coding_lessons\C#\SketchPad\obj\Debug\SketchPad.Properties.Resources.resources
+D:\Coding_lessons\C#\SketchPad\obj\Debug\SketchPad.csproj.GenerateResource.cache
+D:\Coding_lessons\C#\SketchPad\obj\Debug\SketchPad.csproj.CoreCompileInputs.cache
+D:\Coding_lessons\C#\SketchPad\obj\Debug\SketchPad.exe
+D:\Coding_lessons\C#\SketchPad\obj\Debug\SketchPad.pdb
