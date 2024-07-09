@@ -1,0 +1,10 @@
+D:\Coding_lessons\C#\Login\bin\Debug\Login.exe.config
+D:\Coding_lessons\C#\Login\bin\Debug\Login.exe
+D:\Coding_lessons\C#\Login\bin\Debug\Login.pdb
+D:\Coding_lessons\C#\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Coding_lessons\C#\Login\obj\Debug\Login.Form1.resources
+D:\Coding_lessons\C#\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Coding_lessons\C#\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Coding_lessons\C#\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Coding_lessons\C#\Login\obj\Debug\Login.exe
+D:\Coding_lessons\C#\Login\obj\Debug\Login.pdb
